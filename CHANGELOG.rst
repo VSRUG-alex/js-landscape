@@ -18,6 +18,7 @@ master
 TODO
 ====
 
+- schalen kloppen helemaal niet
 - review parameters (schaal, offsets, alignment, ...)
 - foto toevoegen
 - meer referentiepunten
