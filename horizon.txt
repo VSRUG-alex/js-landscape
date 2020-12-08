@@ -1,0 +1,33 @@
+# Horizon description file for Carte du Ciel
+# 
+# File format :
+# Azimuth(integer) Altitude
+#
+# Be sure to begin at the North horizon (azimuth 0)
+# Intermediate missing value are interpolated
+
+# #$%^&*(
+000 +24
+030 +19
+
+047 +03.8
+065 +11.0
+069 +04
+080 +07
+100 +49
+120 +40.7
+130 +08
+143 +08
+147 +20
+156 +22
+184 +53
+236 +04
+268 +04.5
+287 +28
+311 +08.7
+316 +11.5
+326 +04.6
+
+340 +16
+360 +24
+

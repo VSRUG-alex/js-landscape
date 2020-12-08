@@ -6,7 +6,8 @@ Releases
 master
 ------
 
-- bijkomende aktiepunten
+- coordinaten vanuit Allsky Drongen
+- ruwe horizon polygoon
 
 
 2020-12-05 v0.1
@@ -18,10 +19,8 @@ TODO
 ====
 
 - review parameters (schaal, offsets, alignment, ...)
-- horizon polygoon
 - foto toevoegen
 - meer referentiepunten
-- coordinaten verfijnen? (nu - centrum Drongen)
 - fysieke alignment nakijken?
 - eventueel regenereren met andere camera? ASI294MC
 
