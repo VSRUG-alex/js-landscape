@@ -3,14 +3,13 @@ Releases
 
 .. contents::
 
-master
-------
+2020-12-08: v0.2
+----------------
 
-- coordinaten vanuit Allsky Drongen
+- coordinaten op Drongen
 - ruwe horizon polygoon
 
-
-2020-12-05 v0.1
+2020-12-05: v0.1
 ---------------
 
 - eerste versie ASI224MC
